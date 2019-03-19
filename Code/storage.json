@@ -1,0 +1,32 @@
+{
+    "telemetry.machineId": "b9039543e6692190c444917ca75e40768914b63f52b812d24592b7e1afe9efd4",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/srivatsa/Documents",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/srivatsa/Documents/Python"
+        ],
+        "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/srivatsa/Documents/Python",
+                "external": "file:///home/srivatsa/Documents/Python",
+                "path": "/home/srivatsa/Documents/Python",
+                "scheme": "file"
+            },
+            "backupPath": "/home/srivatsa/.config/Code/Backups/f35345e4c4301fe21f94b320dfbf285a",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 19,
+                "width": 1366,
+                "height": 749
+            }
+        }
+    }
+}

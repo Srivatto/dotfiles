@@ -1,0 +1,34 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1551338545
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1551338545
+nautilus-icon-position=56,26
+icon-scale=1
+
+[UBUNTU 18_1.volume]
+nautilus-icon-position-timestamp=1550417063
+nautilus-icon-position=56,146
+icon-scale=1
+
+[301 GB Volume.volume]
+nautilus-icon-position=56,566
+icon-scale=1
+nautilus-icon-position-timestamp=1550581738
+
+[99 GB Volume.volume]
+nautilus-icon-position=56,426
+icon-scale=1
+nautilus-icon-position-timestamp=1550461744
+
+[VATSAA.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1550492518
+
+[VATSA.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1550492518

@@ -1,0 +1,70 @@
+[2019-02-20 16:09:52.112] [sharedprocess] [info] main {"machineId":"b9039543e6692190c444917ca75e40768914b63f52b812d24592b7e1afe9efd4"}
+[2019-02-20 16:09:52.181] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:09:52.200] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:09:52.205] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:09:52.279] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:09:52.286] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:09:52.289] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:09:53.489] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:10:32.128] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-20 16:11:17.930] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:11:17.933] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:11:17.937] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:11:17.943] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:11:18.045] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:11:18.050] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:11:18.056] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:11:22.670] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-02-20 16:11:22.676] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:11:30.695] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-02-20 16:11:30.698] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:11:39.456] [sharedprocess] [info] Installing extension: ms-vscode.csharp
+[2019-02-20 16:11:39.465] [sharedprocess] [info] Scanned user extensions: 0
+[2019-02-20 16:11:41.778] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/bbc87556-846d-4a46-9f62-4f871060782f
+[2019-02-20 16:11:42.940] [sharedprocess] [info] Extracted extension to /home/srivatsa/.vscode/extensions/.ms-vscode.cpptools-0.21.0: ms-vscode.cpptools
+[2019-02-20 16:11:42.940] [sharedprocess] [info] Renamed to /home/srivatsa/.vscode/extensions/ms-vscode.cpptools-0.21.0
+[2019-02-20 16:11:42.960] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-02-20 16:11:43.027] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-02-20 16:11:44.253] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/6786829d-6bc8-42c4-827c-cf92420fa44f
+[2019-02-20 16:11:45.646] [sharedprocess] [info] Extracted extension to /home/srivatsa/.vscode/extensions/.ms-python.python-2019.1.0: ms-python.python
+[2019-02-20 16:11:45.646] [sharedprocess] [info] Renamed to /home/srivatsa/.vscode/extensions/ms-python.python-2019.1.0
+[2019-02-20 16:11:45.652] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-02-20 16:11:45.704] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-02-20 16:11:49.583] [sharedprocess] [info] Downloaded extension: ms-vscode.csharp /tmp/164f299d-dfc8-4509-989c-3bbacc04b3e8
+[2019-02-20 16:11:53.446] [sharedprocess] [info] Extracted extension to /home/srivatsa/.vscode/extensions/.ms-vscode.csharp-1.17.1: ms-vscode.csharp
+[2019-02-20 16:11:53.447] [sharedprocess] [info] Renamed to /home/srivatsa/.vscode/extensions/ms-vscode.csharp-1.17.1
+[2019-02-20 16:11:53.457] [sharedprocess] [info] Installation completed. ms-vscode.csharp
+[2019-02-20 16:11:53.579] [sharedprocess] [info] Extensions installed successfully: ms-vscode.csharp
+[2019-02-20 16:11:58.887] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-20 16:11:58.895] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-20 16:11:58.902] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-20 16:11:58.908] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-20 16:11:58.922] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-20 16:11:58.988] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:11:59.002] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:11:59.011] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:11:59.020] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:12:01.234] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-20 16:13:14.451] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2019-02-20 16:13:14.459] [sharedprocess] [info] Scanned user extensions: 3
+[2019-02-20 16:13:33.230] [sharedprocess] [info] Downloaded extension: james-yu.latex-workshop /tmp/14be19c4-250a-45a7-b968-77c3e1f93863
+[2019-02-20 16:13:39.045] [sharedprocess] [info] Extracted extension to /home/srivatsa/.vscode/extensions/.james-yu.latex-workshop-6.0.0: james-yu.latex-workshop
+[2019-02-20 16:13:39.045] [sharedprocess] [info] Renamed to /home/srivatsa/.vscode/extensions/james-yu.latex-workshop-6.0.0
+[2019-02-20 16:13:39.050] [sharedprocess] [info] Installation completed. james-yu.latex-workshop
+[2019-02-20 16:13:39.122] [sharedprocess] [info] Extensions installed successfully: james-yu.latex-workshop
+[2019-02-20 16:16:41.553] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:16:41.574] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:16:55.804] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:16:55.812] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:16:55.857] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:16:55.865] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:16:58.033] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:17:00.886] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:17:00.906] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:17:38.819] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:17:38.830] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:17:38.837] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:17:38.845] [sharedprocess] [info] Scanned user extensions: 4
+[2019-02-20 16:17:38.924] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:17:38.933] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-20 16:17:38.939] [sharedprocess] [info] Scanned system extensions: 71
